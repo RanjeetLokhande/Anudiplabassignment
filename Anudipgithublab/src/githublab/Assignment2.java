@@ -21,4 +21,3 @@ public class Assignment2 {
 
 }
 
-// har word chya length nusar tyachi position tharnar ascending kivha descending order.
