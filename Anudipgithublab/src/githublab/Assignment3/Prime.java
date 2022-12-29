@@ -1,4 +1,4 @@
-package Assignments3;
+package Assignment3;
 import java.util.Scanner;
 public class Prime {
 
